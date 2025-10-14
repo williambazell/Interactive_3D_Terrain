@@ -109,6 +109,13 @@ The application window (1600x800) is divided into four synchronized views:
 
 ## Examples
 
+### Visualization with Trail Drawn
+<img width="1596" height="825" alt="example_1" src="https://github.com/user-attachments/assets/ee17dd44-b04b-4ed4-a45c-a2957aee048b" />
+
+### Trail with Waypoints
+<img width="1595" height="825" alt="example_2" src="https://github.com/user-attachments/assets/eb29bb05-3f0d-4035-966f-ca3bd12e971d" />
+
+
 ## Contact
 
 For questions or issues, please contact williambazell@yahoo.com
